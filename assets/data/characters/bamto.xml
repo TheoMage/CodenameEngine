@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="6.1">
+	<anim name="idle"      anim="Bamto idle"      fps="24" loop="false" x="0" y="0"/>
+	<anim name="singUP"    anim="Bamto up"    fps="24" loop="false" x="-6" y="50"/>
+	<anim name="singLEFT"  anim="Bamto left"  fps="24" loop="false" x="-10" y="10"/>
+	<anim name="singRIGHT" anim="Bamto right" fps="24" loop="false" x="0" y="27"/>
+	<anim name="singDOWN"  anim="Bamto down"  fps="24" loop="false" x="0" y="-30"/>
+</character>
