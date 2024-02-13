@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.2" name="bamto" folder="stages/bamto/">
+	<sprite name="disruptor"               x="0" y="0" 
+	<dad />
+	<boyfriend />
+</stage>
